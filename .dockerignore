@@ -1,0 +1,8 @@
+Makerfile
+README.md
+.gitignore
+.gitattributes
+.vscode
+**/.git
+**/.DS_Store
+**/node_modules
